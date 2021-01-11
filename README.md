@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-osmar.trojilio@gmail.com-1e3799?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osmar.trojilio@gmail.com)](mailto:osmar.trojilio@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@JuniorTrojilio-1e3799?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juniortrojilio/)](https://www.instagram.com/juniortrojilio/)
 
-Just a curious developer living a great loop of learning and practice, admiring and enthusiastic about technology, I was born in 1996, my father a great computer technician has sharpened my appreciation for technology since I was a child. Ever wondered how only sets of 1's and 0's can do so much? yes, it was exactly this curiosity that captivated me to study Computer Engineering and dedicate myself to the world of bits, algorithms, logic, mathematics, structures and everything that is most fascinating.
+Just a curious developer living a great loop of learning and practice, admirer and enthusiast about technology, I was born in 1996, my father a great computer technician has sharpened my appreciation for technology since I was a child. Ever wondered how only sets of 1's and 0's can do so much? yes, it was exactly this curiosity that captivated me to study Computer Engineering and dedicate myself to the world of bits, algorithms, logic, mathematics, structures and everything that is most fascinating.
 
 If I wanted to know if I have any training, yes Computer Engineering through Feitep, and I consider myself an almost good Software Architect, but don't stick to the titles, as Linus torvalds says, "Speaking is easy, I want to see the code".
 
