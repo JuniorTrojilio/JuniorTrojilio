@@ -9,7 +9,7 @@ Just a curious developer living a great cycle of learning and practice, admirer 
 
 If you want to know if I have any training, yes, Computer Engineering by Feitep, and I consider myself almost a good Software Architect, but don't limit yourself to titles, as Linus torvalds says, "Talking is easy, I want to see the code".
 
-"Hard work trumps talent when talent doesn't work hard"
+"Hard work outweighs talent, when talent doesn't work hard"
 
 <img src="https://user-images.githubusercontent.com/39541807/103921547-67939e00-50f1-11eb-9e0d-bc96c9a4f3cf.gif" width="60">
 
