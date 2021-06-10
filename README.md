@@ -5,6 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-osmar.trojilio@gmail.com-1e3799?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osmar.trojilio@gmail.com)](mailto:osmar.trojilio@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@JuniorTrojilio-1e3799?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juniortrojilio/)](https://www.instagram.com/juniortrojilio/)
 
+![juniortrojilio's github stats](https://github-readme-stats.vercel.app/api?username=juniortrojilio&count_private=true&show_icons=true&theme=tokyonight)
+
+![juniortrojilio's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniortrojilio&layout=compact)
+
 Just a curious developer living a great cycle of learning and practice, admirer and enthusiast of technology, I was born in 1996, my father, a great computer technician, has sharpened my appreciation for technology since I was a child. Have you ever wondered how only sets of 1 and 0 can do so much? yes, it was precisely this curiosity that captivated me in studying Computer Engineering and dedicating myself to the world of bits, algorithms, logic, mathematics, structures and everything that is most fascinating.
 
 If you want to know if I have any training, yes, Computer Engineering by Feitep, and I consider myself almost a good Software Architect, but don't limit yourself to titles, as Linus torvalds says, "Talking is easy, I want to see the code".
