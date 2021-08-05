@@ -7,7 +7,7 @@
 
 ![juniortrojilio's github stats](https://github-readme-stats.vercel.app/api?username=juniortrojilio&count_private=true&show_icons=true&theme=tokyonight)
 
-![juniortrojilio's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniortrojilio&layout=compact)
+![juniortrojilio's top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juniortrojilio&layout=compact&theme=dark)
 
 Just a curious developer living a great cycle of learning and practice, admirer and enthusiast of technology, I was born in 1996, my father, a great computer technician, has sharpened my appreciation for technology since I was a child. Have you ever wondered how only sets of 1 and 0 can do so much? yes, it was precisely this curiosity that captivated me in studying Computer Engineering and dedicating myself to the world of bits, algorithms, logic, mathematics, structures and everything that is most fascinating.
 
