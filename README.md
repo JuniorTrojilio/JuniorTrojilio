@@ -16,7 +16,7 @@ Just a curious developer living a great cycle of learning and practice.
 
 I study computer engineering, and I consider myself a good software engineer, but don't limit yourself to titles, as Linus torvalds says:
   
-| "It's easy to talk, I want to see code".
+> "It's easy to talk, I want to see code".
 
 "Hard work trumps talent, when talent doesn't work hard"
 
