@@ -18,6 +18,4 @@ I study computer engineering, and I consider myself a good software engineer, bu
   
 > "It's easy to talk, I want to see code".
 
-"Hard work trumps talent, when talent doesn't work hard"
-
 <img src="https://user-images.githubusercontent.com/39541807/103921547-67939e00-50f1-11eb-9e0d-bc96c9a4f3cf.gif" width="60">
