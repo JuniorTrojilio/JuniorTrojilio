@@ -12,7 +12,7 @@
 <a href = "mailto:osmar.trojilio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juniortrojilio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-Just a curious developer living a great cycle of learning and practice.
+Just a curious developer living a great cycle of learning and practicing.
 
 I study computer engineering, and I consider myself a good software engineer, but don't limit yourself to titles, as Linus torvalds says:
   
